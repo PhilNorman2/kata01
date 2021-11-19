@@ -1,19 +1,21 @@
-##Kata01 API
+## Kata01 API
 
 Spring Boot application using Kotlin and MySQL
 
-###Prerequisites
+### Prerequisites
 
 * Java JDK(versions 8 and up)
 * Maven - tested with 3.8.3
 * MySQL - tested with 8.0.25
 
-###API application Initialization
+### API application Initialization
 
 After cloning the repo, navigate to /kato01 and enter:
 
 mvn spring-boot:run
 to load packages, build, amd run
+
+### Using the API
 
 Api is accessible at http://localhost:8080/api
 
