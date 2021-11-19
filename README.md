@@ -17,7 +17,7 @@ to load packages, build, amd run
 
 ### Using the API
 
-Api is accessible at http://localhost:8080/api
+The API runs at this host locally: http://localhost:8080
 
 The entity for the api is subcribers as in
 
