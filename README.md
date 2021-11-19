@@ -37,6 +37,8 @@ GET subcriber by id
 
 http://localhost:8080/api/subscribers/{id}
 
+### Testing
+
 A few mockMVC test cases are written, navigate to project directorty and run:
 
 mvn test
